@@ -67,7 +67,8 @@ saya menggunakan teknologi komputer dengan merk infinix prosesor intel 11 gen co
 
 ## 6. Desain User Experience dan User Interface
 
-"C:\Users\yoga dwi prayoga\Downloads\latar.jpeg"
+![image](https://github.com/banggoyy5657/game/assets/148887748/4b1b8d82-5415-4415-8e1c-4085cd8769fd)
+
 
 ## 7. Demonstrasi Video
 
