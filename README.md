@@ -67,8 +67,7 @@ saya menggunakan teknologi komputer dengan merk infinix prosesor intel 11 gen co
 
 ## 6. Desain User Experience dan User Interface
 
-Bisa load image 
-![Contoh](https://fastly.picsum.photos/id/318/536/354.jpg?hmac=Ixy-wle80nudIR_cmnF1iY2y6rMUH7_9sk-BP1fTpM8)
+"C:\Users\yoga dwi prayoga\Downloads\latar.jpeg"
 
 ## 7. Demonstrasi Video
 
