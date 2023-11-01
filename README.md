@@ -13,12 +13,9 @@ campaign: Bergabunglah dalam petualangan menarik untuk menjelajahi keindahan al-
 
 
 ## 2. User Story
--untuk usia 7+
--seorang yang ingin belajar dengan cara yang lebih efektif
-tema:
--mudah
--menyenangkan
--sederhana
+SEBAGAI | KEINGINAN | SEHINGGA | PRIORITAS
+pengguna |belajar | bisa mengenal huruf hijaiyah|⭐⭐⭐⭐⭐
+pengguna|belajar | bisa membaca al-qur'an dengan lancar|⭐⭐⭐⭐⭐
 
 ## 3. Struktur Data
 
