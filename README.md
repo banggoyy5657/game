@@ -22,21 +22,48 @@ tema:
 
 ## 3. Struktur Data
 
-Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [https://mermaid.js.org/syntax/entityRelationshipDiagram.html](https://mermaid.js.org/syntax/entityRelationshipDiagram.html) 
+stateDiagram-v2
+    [*] --> First
 
-```mermaid
-erDiagram
-    RUJAK ||--o{ SAYUR : tersusun
-    PEMBELI ||--|{ RUJAK : beli
-```
+    state First {
+        [*] --> Second
+
+        state Second {
+            [*] --> second
+            second --> Third
+
+            state Third {
+                [*] --> third
+                third --> [*]
+            }
+        }
+    }
+First
+Second
+second
+Third
+third
 
 ## 4. Arsitektur Sistem
 
-Masih pake mermaid.js juga bisa lihat flowchart di [https://mermaid.js.org/syntax/flowchart.html](https://mermaid.js.org/syntax/flowchart.html)
+mermaid
+flowchart TD
+  subgraph cloud
+
+  a(Database: MySQL)-->b(Backend: Python.Django)-->c(Webserver: Javascript.ExpressJS)
+  end
+
+  subgraph client
+  id1(Android and IOS app: Dart.Flutter)
+  end
+
+  cloud-->client
+
+
 
 ## 5. Teknologi, Library, dan Framework
 
-bla bla bla
+saya menggunakan teknologi komputer dengan merk infinix prosesor intel 11 gen core i3,64-bit operating system, x64-based processor. untuk library menggunakan java.swing dan java.awt dan untuk framework menggunakan visualcode
 
 ## 6. Desain User Experience dan User Interface
 
