@@ -19,7 +19,7 @@ pengguna|belajar | bisa membaca al-qur'an dengan lancar|⭐⭐⭐⭐⭐
 pengguna|belajar |bisa lebih mengexplore tentang ilmu agama|⭐⭐⭐⭐
 pengguna|belajar| dapat menumbuhkan rasa semangat dan penasaran dalam ilmu agama|⭐⭐⭐⭐
 pemilik|kekurangan| masih banyak yang belum bisa di explore di game ini|⭐⭐
-pemilik|kekurangan| masih banyak item yang belum  di masukkan ke game ini |
+pemilik|kekurangan| masih banyak item yang belum  di masukkan ke game ini |⭐⭐
 
 
 ## 3. Struktur Data
